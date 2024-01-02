@@ -1,4 +1,5 @@
 # Excel Challenge
+![shutterstock_1356273047-2048x1365](https://github.com/cbake105/Excel_Crowdfunding/assets/133677209/3898bab1-9df3-4a86-bc95-201bca6bc761)
 
 ## Instructions
 Using the Excel workbook in your .zip file, modify and analyze the sample-project data and try to uncover market trends.
